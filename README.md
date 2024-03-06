@@ -6,7 +6,8 @@ The challenge faced by industrial control systems is that they are vulnerable to
 
 Files
 
-main.py\n
+main.py
+
 attack.py - adversarial attacks
 
 defend.py - defenses against attacks
