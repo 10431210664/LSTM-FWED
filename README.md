@@ -6,12 +6,17 @@ The challenge faced by industrial control systems is that they are vulnerable to
 
 Files
 
-main.py, 
-attack.py - adversarial attacks, 
-defend.py - defenses against attacks, 
-LSTM_Autoencoder.py - LSTM_Autoencoder model and training, 
-variables.py - hyperparameters, 
-evaluator.py - Evaluation metric value, 
+main.py\n
+attack.py - adversarial attacks
+
+defend.py - defenses against attacks
+
+LSTM_Autoencoder.py - LSTM_Autoencoder model and training
+
+variables.py - hyperparameters
+
+evaluator.py - Evaluation metric value
+
 dataset.py - dataset.
 
 
